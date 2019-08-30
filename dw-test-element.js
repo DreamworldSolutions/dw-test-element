@@ -1,3 +1,3 @@
 export default {
-    message: "Commit 4"
+    message: "Commit 5"
 };
