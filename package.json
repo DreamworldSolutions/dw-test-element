@@ -1,0 +1,25 @@
+{
+  "name": "@dreamworld/dw-test-element",
+  "version": "0.0.0-development",
+  "description": "A Test Element for CI",
+  "main": "dw-test-element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamworldSolutions/dw-test-element.git"
+  },
+  "devDependencies": {
+    "semantic-release": "beta"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DreamworldSolutions/dw-test-element/issues"
+  },
+  "homepage": "https://github.com/DreamworldSolutions/dw-test-element#readme"
+}
